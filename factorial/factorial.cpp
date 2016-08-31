@@ -9,7 +9,7 @@
     for (int i = n; i > 0; i--) {
         result *= i;
     }
-    //return result;
+    return result;
 }*/
 
 //using recursion
